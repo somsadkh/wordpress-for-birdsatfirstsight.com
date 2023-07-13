@@ -1,0 +1,12 @@
+.page-title {
+background-color:rgba(0,0,0,.2)
+}
+.entry-content ul li {
+    margin-bottom: 5 px;
+}
+.newwidth {width:10000px;
+}
+
+.wptb-rating-stars-box ul>li.wptb-rating-star span{
+	position: inherit !important;
+}
